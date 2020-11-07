@@ -25,4 +25,7 @@ Instance is similar to Mask R-CNN. But they conserve 2.09M parameters in compari
 
 1. Due to less availablity of resources, the training is not done yet. 
 
-## How to use code
+## Contributing
+
+If you find a bug, create a GitHub issue, or even better, submit a pull request. Similarly, if you have questions, simply post them as GitHub issues. 
+Training is not done yet, If anyone whats to contribute in this, you are more than welcome.
